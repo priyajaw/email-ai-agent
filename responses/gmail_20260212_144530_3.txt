@@ -1,0 +1,20 @@
+TO: Priya Jawariya <priyajaw637@gmail.com>
+RE: Issue with my recent order
+CLASSIFICATION: customer_support
+PRIORITY: high
+SENTIMENT: negative
+================================================================================
+
+Subject: Re: Issue with my recent order - Order #12345
+
+Dear Priya,
+
+Thank you for reaching out and bringing this to our attention. I understand your concern regarding the missing shipping confirmation and the "Order not found" message for your order #12345. Please accept our apologies for any worry or inconvenience this has caused.
+
+We are investigating this issue with the highest priority immediately. Our team is currently checking our internal order and shipping systems to determine the precise status of your order. You can expect a follow-up email from us shortly with a clear update and the correct tracking information.
+
+We appreciate your patience as we work to resolve this for you promptly.
+
+Sincerely,
+
+[Your Name/Customer Support Team]
